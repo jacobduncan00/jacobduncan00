@@ -14,3 +14,5 @@ This is what I'm currently using
 - MongoDB
 
 View my past work on my [site](http://jacobduncan.me)
+
+![](test.gif)
