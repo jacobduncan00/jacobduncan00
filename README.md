@@ -1,6 +1,6 @@
 # Welcome to my Github profile! 🦖
 
-My name is Jacob, I'm current in University studying Computer Science!
+My name is Jacob, I'm currently in University studying Computer Science!
 
 You should follow my on Twitter where I am active to the public, @DuncJake.
 
