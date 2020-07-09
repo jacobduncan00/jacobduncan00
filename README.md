@@ -15,4 +15,4 @@ This is what I'm currently using
 
 View my past work on my [site](http://jacobduncan.me)
 
-![](test.gif)
+![](code.gif)
