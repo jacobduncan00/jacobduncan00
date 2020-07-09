@@ -1,5 +1,3 @@
-![](test.gif)
-
 # Welcome to my Github profile! λ
 
 My name is Jacob, I'm currently in University studying Computer Science!
