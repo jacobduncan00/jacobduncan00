@@ -13,4 +13,4 @@ This is what I'm currently using
 - Node
 - MongoDB
 
-View my past work on my site jacobduncan.me
+View my past work on my [site](http://jacobduncan.me)
