@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/jacobduncan00/raw/master/code.gif" width="400" height="400" />
-</p>
+![image](https://github.com/jacobduncan00/jacobduncan00/raw/master/code.gif)
 
 ### Hi there 👋
 
