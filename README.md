@@ -1,4 +1,4 @@
-![image](https://github.com/jacobduncan00/jacobduncan00/raw/master/code.gif)
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
 ### Hi there 👋
 
