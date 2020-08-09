@@ -6,19 +6,19 @@
 ### <div align="center">I'm Jacob, a student / full-stack developer 👨‍💻coding since 2017 🚀</div>  
   
 
-🔭 I’m currently working on [Interview Practice](https://github.com/jacobduncan00/interview-practice)  
+  🔭 I’m currently working on [Interview Practice](https://github.com/jacobduncan00/interview-practice)  
   
 
-🌱 I’m currently learning React and TypeScript  
+  🌱 I’m currently learning React and TypeScript  
   
 
-❓ Ask me about anything related to MERN stack and related technologies  
+  ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-⚡ Fun fact: I prefer backend work over frontend  
+  ⚡ Fun fact: I prefer backend work over frontend  
 
 
-👉🏻 Go check out my [website](http://jacobduncan.me)
+  👉🏻 Go check out my [website](http://jacobduncan.me)
   
 
 <br/>  
