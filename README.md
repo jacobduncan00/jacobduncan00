@@ -16,6 +16,9 @@
   
 
 - ⚡ Fun fact: I prefer backend work over frontend  
+
+
+-  👉🏻 Go check out my [website](http://jacobduncan.me)
   
 
 <br/>  
