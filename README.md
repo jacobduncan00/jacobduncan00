@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
 </div>  
   
-
+  
 ### <div align="center">I'm Jacob, a student / full-stack developer 👨‍💻coding since 2017 🚀</div>  
 <br/>
   
@@ -25,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skills  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
