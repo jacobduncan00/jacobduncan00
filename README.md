@@ -75,9 +75,10 @@
 </a>
 <a href="https://instagram.com/jduncan.19" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
 <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Up&url=http%3A%2F%2Fjacobduncan.me">
+</div>  
+
   
 
 <br/>  
