@@ -2,7 +2,7 @@ name: GitHub - Activity Updater - Readme
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 jobs:
