@@ -85,3 +85,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.jacobduncan00.vercel.app/api?username=jacobduncan00&show_icons=true&count_private=true" align="center"/></div>  
 
+## Recent Activity
+<!--START_SECTION:activity-->
+
