@@ -62,15 +62,11 @@
 
 
 ## Connect with me
-![Twitter Follow](https://img.shields.io/twitter/follow/DuncJake?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <div align="center">
 <a href="https://github.com/jacobduncan00" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DuncJake?color=1DA1F2&logo=Twitter&style=for-the-badge">
-<a href="https://twitter.com/DuncJake" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://dev.to/jacobduncan00" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
