@@ -77,6 +77,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Up&url=http%3A%2F%2Fjacobduncan.me">
   
 
 <br/>  
@@ -84,5 +85,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.jacobduncan00.vercel.app/api?username=jacobduncan00&show_icons=true&count_private=true" align="center"/></div>  
-
 
