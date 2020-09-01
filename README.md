@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jacob, a student / full-stack developer 👨‍💻 coding since 2017 🚀</div>  
 <br/>
   
-  - 🧠 I'm currently taking Database Design & Implementation (386) aswell as Systems Software (350)
+  - 🧠 I'm currently taking [COSC386 - Database Design & Implementation](https://github.com/jacobduncan00/cosc386) aswell as [COSC350 - Systems Software](https://github.com/jacobduncan00/cosc350)
   
 
   - 🔭 Over the summer I worked on [Interview Practice](https://github.com/jacobduncan00/interview-practice)  
