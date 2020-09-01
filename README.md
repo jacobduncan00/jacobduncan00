@@ -1,11 +1,13 @@
 ### <div align="center">I'm Jacob, a student / full-stack developer 👨‍💻 coding since 2017 🚀</div>  
 <br/>
   
-
-  - 🔭 I’m currently working on [Interview Practice](https://github.com/jacobduncan00/interview-practice)  
+  - 🧠 I'm currently taking Database Design & Implementation (386) aswell as Systems Software (350)
   
 
-  - 🌱 I’m currently learning React and TypeScript  
+  - 🔭 Over the summer I worked on [Interview Practice](https://github.com/jacobduncan00/interview-practice)  
+  
+
+  - 🌱 In my free time I’m learning React and TypeScript  
   
 
   - ❓ Ask me about anything related to MERN stack and related technologies  
