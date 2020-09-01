@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="undefined">
-</div>  
-  
-  
 ### <div align="center">I'm Jacob, a student / full-stack developer 👨‍💻 coding since 2017 🚀</div>  
 <br/>
   
