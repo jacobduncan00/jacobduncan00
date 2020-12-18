@@ -12,7 +12,6 @@ I'm a 3rd year student pursuing a Bachelors degree in Computer Science 🎓 from
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jacobduncan00).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: jacobduncan00@yahoo.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/jacobduncan00/jacobduncan00/blob/master/Resume.pdf).
 
 ### Languages and Tools:
 
