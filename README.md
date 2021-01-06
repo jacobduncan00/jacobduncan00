@@ -7,7 +7,7 @@ I'm a 3rd year student pursuing a Bachelors degree in Computer Science 🎓 from
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jacobduncan00).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
