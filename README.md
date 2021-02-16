@@ -1,4 +1,4 @@
-#Hey 👋, I'm Jacob!
+# Hey 👋, I'm Jacob!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-duncan-04685a1b6/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://jacobduncan.me/)
