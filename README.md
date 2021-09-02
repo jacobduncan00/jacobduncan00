@@ -8,6 +8,7 @@
 
 - 👷 <samp>Currently pursuing Bachelor's in Computer Science(2018-2022) from Salisbury University
 - ✍🏻 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar
+- 👨‍🏫 <samp>Treasurer of Upsilon Pi Epsilon at Salisbury University
 - 🥇 <samp>GullCode 2021 Winner
 - 💼 <samp>Software Developer Intern at Chesapeake Technology International
 - 💬 <samp>Ask me about Frontend/React/Node/JS/TS
@@ -19,7 +20,7 @@
 ##
 
 <div>
-<h3><b><samp>Experiences:</samp></b></h3>
+<h3><b><samp>Experience</samp></b></h3>
 - 👷 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar(2021-2022)<br>
 - 🔬 <samp>Research at Henson School of Science & Technology (Web Development & High Dimensional Geometry)<br>
 - 🕵🏻 <samp>Software Developer Intern at Chesapeake Technology International(Summer 2021-Present)<br>
@@ -44,7 +45,19 @@
 <img src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
- 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </span>
+  
+##
+
+<div>
+<h3><b><samp>School</samp></b></h3>
+- 💻 <samp>Major: Computer Science<br>
+- 📈 <samp>Minor: Mathematics<br>
+- 🧠 <samp>GPA: 3.64, CS Honors UPE, Deans List<br>
+- 🤩 <samp>Extracurriculars: CS & MATH Club, CMD Seminar, Research, Weightlifting<br>
+- 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
+- 🎓 <samp>Expected Graduation: May, 2022<br>
+</div>
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
