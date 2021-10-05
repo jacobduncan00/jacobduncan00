@@ -59,5 +59,8 @@
 - 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
 - 🎓 <samp>Expected Graduation: May, 2022<br>
 </div>
+  
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/230938722017869824)](https://discord.com/users/230938722017869824)
+
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
