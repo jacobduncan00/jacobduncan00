@@ -54,7 +54,7 @@
 <h3><b><samp>School</samp></b></h3>
 - 💻 <samp>Major: Computer Science<br>
 - 📈 <samp>Minor: Mathematics<br>
-- 🧠 <samp>GPA: 3.64, CS Honors UPE, Deans List<br>
+- 🧠 <samp>GPA: 3.67, CS Honors UPE, Deans List<br>
 - 🤩 <samp>Extracurriculars: CS & MATH Club, CMD Seminar, Research, Weightlifting<br>
 - 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
 - 🎓 <samp>Expected Graduation: May, 2022<br>
@@ -62,7 +62,6 @@
   
   ##
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/230938722017869824)](https://discord.com/users/230938722017869824)
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/230938722017869824)](https://discord.com/users/230938722017869824)
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
