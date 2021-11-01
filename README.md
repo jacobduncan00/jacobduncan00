@@ -1,10 +1,8 @@
-![](https://github.com/jacobduncan00/jacobduncan00/blob/master/header_.png)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/230938722017869824)](https://discord.com/users/230938722017869824)
 
 ## <p align="center"><h4 align="center"><samp>☆ An Undergraduate, Software Developer Intern, and Web Developer ☆</samp></h4></p>
 
 <div>
-<img align="right" src="https://media.giphy.com/media/yuI7fL5cR1YeA/giphy.gif?cid=ecf05e476lpdqb3xdnsmexxs3zl5y3t3gjfkvk679ckyt3fh&rid=giphy.gif&ct=g" width="40%"/>
-  <br>
 
 - 👷 <samp>Currently pursuing Bachelor's in Computer Science(2018-2022) from Salisbury University
 - ✍🏻 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar
@@ -59,9 +57,5 @@
 - 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
 - 🎓 <samp>Expected Graduation: May, 2022<br>
 </div>
-  
-  ##
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/230938722017869824)](https://discord.com/users/230938722017869824)
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
