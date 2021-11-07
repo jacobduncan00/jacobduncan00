@@ -57,5 +57,3 @@
 - 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
 - 🎓 <samp>Expected Graduation: May, 2022<br>
 </div>
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
