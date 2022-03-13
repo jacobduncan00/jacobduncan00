@@ -4,26 +4,26 @@
 
 <div>
 
-- 👷 <samp>Currently pursuing Bachelor's in Computer Science(2018-2022) from Salisbury University
-- ✍🏻 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar
-- 👨‍🏫 <samp>Treasurer of Upsilon Pi Epsilon at Salisbury University
-- 🥇 <samp>GullCode 2021 Winner
-- 💼 <samp>Software Developer Intern at Chesapeake Technology International
-- 💬 <samp>Ask me about Frontend/React/Node/JS/TS
-- 🤔 <samp>I’m looking for help UI design and CSS
-- ⚡ <samp>I love to code websites and learn full stack in my free time
-- ♟ <samp>I play a lot of video games and collect Pokémon cards
+- 👷 <samp>Currently pursuing Bachelor's in Computer Science(2018-2022) from Salisbury University</samp>
+- ✍🏻 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar</samp>
+- 👨‍🏫 <samp>Treasurer of Upsilon Pi Epsilon at Salisbury University</samp>
+- 🥇 <samp>GullCode 2021 Winner</samp>
+- 💼 <samp>Software Developer Intern at Chesapeake Technology International</samp>
+- 💬 <samp>Ask me about Frontend/React/Node/JS/TS</samp>
+- 🤔 <samp>I’m looking for help UI design and CSS</samp>
+- ⚡ <samp>I love to code websites and learn full stack in my free time</samp>
+- ♟ <samp>I play a lot of video games and collect Pokémon cards</samp>
 </div>
   
 ##
 
 <div>
 <h3><b><samp>Experience</samp></b></h3>
-- 👷 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar(2021-2022)<br>
-- 🔬 <samp>Research at Henson School of Science & Technology (Web Development & High Dimensional Geometry)<br>
-- 🕵🏻 <samp>Software Developer Intern at Chesapeake Technology International(Summer 2021-Present)<br>
-- 👨🏾‍💻 <samp>Salisbury University IT Assistant(2019-2020)<br>
-- ☄️ <samp>HackMIT Participant 2021<br>
+- 👷 <samp>Core Member of Salisbury University Math & Computer Science CMD Seminar(2021-2022)<br></samp>
+- 🔬 <samp>Research at Henson School of Science & Technology (Web Development & High Dimensional Geometry)<br></samp>
+- 🕵🏻 <samp>Software Developer Intern at Chesapeake Technology International(Summer 2021-Present)<br></samp>
+- 👨🏾‍💻 <samp>Salisbury University IT Assistant(2019-2020)<br></samp>
+- ☄️ <samp>HackMIT Participant 2021<br></samp>
 </div>
 
 ##
@@ -50,10 +50,10 @@
 
 <div>
 <h3><b><samp>School</samp></b></h3>
-- 💻 <samp>Major: Computer Science<br>
-- 📈 <samp>Minor: Mathematics<br>
-- 🧠 <samp>GPA: 3.67, CS Honors UPE, Deans List<br>
-- 🤩 <samp>Extracurriculars: CS & MATH Club, CMD Seminar, Research, Weightlifting<br>
-- 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br>
-- 🎓 <samp>Expected Graduation: May, 2022<br>
+- 💻 <samp>Major: Computer Science<br></samp>
+- 📈 <samp>Minor: Mathematics<br></samp>
+- 🧠 <samp>GPA: 3.67, CS Honors UPE, Deans List<br></samp>
+- 🤩 <samp>Extracurriculars: CS & MATH Club, CMD Seminar, Research, Weightlifting<br></samp>
+- 👨‍🏫 <samp>Mentoring: lower classmen in Mathematics & Computer Science<br></samp>
+- 🎓 <samp>Expected Graduation: May, 2022<br></samp>
 </div>
